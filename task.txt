@@ -1,0 +1,58 @@
+Market Research & Use Case Generation Agent
+Your goal is to design a Multi-Agent architecture system that generates relevant AI and Generative AI (GenAI) use cases for a given Company or Industry. The system will conduct market research, understand the industry and product, and provide resource assets for AI/ML solutions, focusing on enhancing operations and customer experiences.
+The Multi-agent architecture must have the following agents:
+
+
+
+Research the Industry or the Company
+Use a Web browser tool and understand the industry and segment the company is working in (e.g., Automotive, Manufacturing, Finance, Retail, Healthcare, etc.).
+Identify the company’s key offerings and strategic focus areas (e.g., operations, supply chain, customer experience, etc.). A vision and product information on the industry should be fine as well. 
+
+
+Market Standards & Use Case Generation
+Based on the industry conducted, analyze industry trends and standards within the company’s sector related to AI, ML, and automation.
+Propose relevant use cases where the company can leverage GenAI, LLMs, and ML technologies to improve their processes, enhance customer satisfaction, and boost operational efficiency.
+
+
+Resource Asset Collection
+Collect the above use cases generated and search for relevant datasets on platforms like Kaggle, HuggingFace, and GitHub.
+Save the resource links fetched in a text or markdown file. 
+[OPTIONAL: BONUS] If applicable, propose GenAI solutions like document search, automated report generation, and AI-powered chat systems for internal or customer-facing purposes.
+Final Proposal
+List down the top use cases that can be delivered to the customer, ensuring they are relevant to the company’s goals and operational needs.
+Ensure to add references through which certain use cases were suggested
+Resource Asset links should be clickable. 
+
+
+
+
+Additional Resources:
+You may recommend the agents to refer to reports and insights on AI and digital transformation from industry-specific sources such as McKinsey, Deloitte, or Nexocode.
+Search for industry-specific use cases (e.g., “how is the retail industry leveraging AI and ML” or “AI applications in automotive manufacturing”).
+Deliverables
+Source code: Submit the source code of your Multi-Agentic workflow, along with any necessary scripts, configuration files, and documentation.
+Report: Write a report that explains your methodology, results, and conclusions. Include anything that helps illustrate your findings. Architecture flowchart of your implementation is MUST. 
+Demo Video: A video showcasing the architecture flowchart and the output generated. Bonus: Deploy the application on Streamlit or Gradio or any other relevant tools. 
+Assignment Evaluation Criteria:
+Your agent will be evaluated based on the following parameters:
+Depth of market research and competitor analysis.
+Relevance and creativity of use cases generated for the customer.
+Feasibility and practicality of implementing the proposed solutions.
+Quality and clarity of the final proposal, including actionable insights.
+Suggested Tools & Frameworks
+Agent Frameworks: Use OpenAGI, BeyondLLM, LangChain, LLamaIndex, Autogen, or CrewAI for building AI agents. You can check DeepLearning AI short courses for quick tutorials or RAG & Agents Bootcamp. 
+Search & Retrieval:
+Leverage Tavily or Exa or Serper for advanced web search 
+Dataset Sources: Find relevant datasets on Kaggle, HuggingFace, or GitHub etc. 
+Feel free to use any other tools you're comfortable with.
+Learning Resources
+Deep learning Short sources: 
+https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/
+https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/
+RAG Agents Bootcamp: https://aiplanet.com/courses/rag-agents-bootcamp
+AutoGen Documentation detailed docs: https://microsoft.github.io/autogen/docs/Getting-Started/
+
+Sample Output Reports:
+Market research  (only selected links are added); the competitors' list and their annual reports could be fetched (even here, we added selected links); this allows one to tell what industry leaders are doing wrt AI adoption
+Use Case Proposal
+Feasibility check for datasets and building use cases
