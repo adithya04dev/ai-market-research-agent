@@ -2,9 +2,7 @@
 A market research tool built with CrewAI that analyzes companies and industries, generates relevant use cases , and identifies implementation resources. 
 Simplifies the process of gathering strategic business insights.     
   
-# Market Research CrewAI
 
-An AI-powered market research tool built with CrewAI that analyzes companies and industries, generates relevant use cases, and identifies implementation resources. Simplifies the process of gathering strategic business insights.
 
 ## Architecture Flow Chart
 ![Architecture Diagram 1](./images/Screenshot%202024-10-25%20115531.png)
