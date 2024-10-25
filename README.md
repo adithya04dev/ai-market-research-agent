@@ -30,8 +30,8 @@ An AI-powered market research tool built with CrewAI that analyzes companies and
 -CrewAI tools SerperDev for searching internet,ScrapeWebsite for scraping webpage dataPDFSearchTool for searching through pdf reports.    
   
 ## Learning Resources  
-CrewAI docs : https://docs.crewai.com/introduction
-Deeplearnig.ai short course : https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/
+CrewAI docs : https://docs.crewai.com/introduction  
+Deeplearnig.ai short course : https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/  
 
 
 ## Installation  and Seup
