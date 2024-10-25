@@ -13,8 +13,10 @@ def main():
     if st.button("Submit"):
         # Call the ask function and display the result
         response = ask(question)
-        if response.tasks_output[-1].raw:
+        st.write(response.tasks_output[0].raw)
+        st.write(response.tasks_output[1].raw)
+        st.write(response.tasks_output[2].raw)
+        
 
-            st.write(response.tasks_output[-1].raw)
 
 main()
