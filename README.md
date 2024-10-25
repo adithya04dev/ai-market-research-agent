@@ -1,22 +1,27 @@
 ## Description  
 A market research tool built with CrewAI that analyzes companies and industries, generates relevant use cases , and identifies implementation resources. 
-Simplifies the process of gathering strategic business insights.   
-## Architecture flow chart  :
-![s1](./images/Screenshot%2024-10-25%115531.png)  
-![s1](./images/Screenshot%2024-10-25%115702.png)
+Simplifies the process of gathering strategic business insights.     
   
-## Output ScreenShots :  
-1. Market Researcher's response :
-![s1](./images/Screenshot%2024-10-25%124129.png)  
-![s1](./images/Screensho%2024-10-25%124138.png)
+# Market Research CrewAI
 
+An AI-powered market research tool built with CrewAI that analyzes companies and industries, generates relevant use cases, and identifies implementation resources. Simplifies the process of gathering strategic business insights.
 
-2.Use Case Agent's response: 
-![s1](./images/Screenshot 2024-10-25%124204.png)  
+## Architecture Flow Chart
+![Architecture Diagram 1](./images/Screenshot%202024-10-25%20115531.png)
+![Architecture Diagram 2](./images/Screenshot%202024-10-25%20115702.png)
 
-3.Final Report: 
-![s1](./images/Screenshot%2024-10-25%1124212.png)  
-![s1](./images/Screenshot%2024-10-25%1124219.png)  
+## Output Screenshots
+
+### 1. Market Researcher's Response
+![Market Research Output 1](./images/Screenshot%202024-10-25%20124129.png)
+![Market Research Output 2](./images/Screenshot%202024-10-25%20124138.png)
+
+### 2. Use Case Agent's Response
+![Use Case Output](./images/Screenshot%202024-10-25%20124204.png)
+
+### 3. Final Report
+![Final Report 1](./images/Screenshot%202024-10-25%20124212.png)
+![Final Report 2](./images/Screenshot%202024-10-25%20124219.png)
   
 
 
