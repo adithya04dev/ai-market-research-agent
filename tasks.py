@@ -32,11 +32,11 @@ use_case_generation_task = Task(
         "Research by searching internet,then reading the articles using links,or searching in pdfs . ( Undersatand how you can use use tool for each of given task and call with correct inputs ) "
         "Generate relevant use cases where the company can leverage GenAI, LLMs, and ML technologies. "
         "First use the tools by passing  correct input formats..then after reasearching finally return "
-        "A list of 4-5 GenAI/AI/ML use cases for this company/industry and description about it  {company}\n"
+        "A list of 4-5 GenAI/AI/ML use cases for this company/industry and description(around 2 lines),and how it could be implemented. about it  {company}\n"
     ),
     expected_output=(
        
-        " After using tools with correct input formats for researching then finally return  list of 4-5 GenAI/AI/ML use cases for this company/industry and description. "
+        " After using tools with correct input formats for researching then finally return  list of 4-5 GenAI/AI/ML use cases for this company/industry and description(around 2 lines) and how it could be implemented . "
 
 
     ),
@@ -58,7 +58,7 @@ resource_collection_task = Task(
     After using tools with correct input formats  for finding then finally return
 
 
-   -A curated list of top use cases  that contains description,impact,relevant resources (2-3 are enough).
+   -A curated list of top use cases  that contains description,how it could be implemented, impactit could have ,relevant resources/References (2-3 are enough).
     -Remember don't makeup/hallucinate to create links on your own..return only found links from the search tool.
 
 
