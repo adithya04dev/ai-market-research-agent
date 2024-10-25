@@ -4,7 +4,7 @@ import streamlit as st
 from crew import ask
 # Streamlit app
 def main():
-    st.title("Company/Industry Name")
+    st.title("Research and Generate use case about company/industry.")
 
     # Text input for the question
     question = st.text_input("Enter Company/Industry Name:")
