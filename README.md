@@ -26,8 +26,8 @@ An AI-powered market research tool built with CrewAI that analyzes companies and
 
 
 ## Frameworks/Tools used   
--Crew AI -for building multiple agents.
--CrewAI tools SerperDev for searching internet,ScrapeWebsite for scraping webpage dataPDFSearchTool for searching through pdf reports.    
+-Crew AI -for building multiple agents.   
+-CrewAI tools SerperDev for searching internet,ScrapeWebsite for scraping webpage dataPDFSearchTool for searching through pdf reports.      
   
 ## Learning Resources  
 CrewAI docs : https://docs.crewai.com/introduction  
